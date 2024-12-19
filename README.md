@@ -29,4 +29,7 @@ Avec yarn :
 ```bash
 yarn install
 ```
+## Template : 
+
+![image](https://github.com/user-attachments/assets/9888086d-7bd6-4633-a01d-772d5c780f39)
 
